@@ -17,8 +17,3 @@ AI/ML Engineer | Deep Learning | Computer Vision
 📈 Stock Market Prediction using LSTM
 📄 Annual Report Analyzer (RAG)
 🤖 Data Analytics AI Agent
-
-## Connect
-LinkedIn
-Portfolio
-Email
